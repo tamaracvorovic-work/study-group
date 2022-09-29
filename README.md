@@ -31,5 +31,5 @@ Open Cypress from your project root:
 
 ## The Launchpad
 The Launchped job is to guide you through the decisions and configuration tasks you need to complete before you start writing your first test.
-(![](https://file%2B.vscode-resource.vscode-cdn.net/Users/tamarapopov/Desktop/Screen%20Shot%202022-09-29%20at%204.06.38%20PM.png?version%3D1664460654751))
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/tamarapopov/Desktop/Screen%20Shot%202022-09-29%20at%204.06.38%20PM.png?version%3D1664460654751)
 
